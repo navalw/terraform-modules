@@ -1,2 +1,1 @@
-# terraform-modules
-Demo purpose
+# core-infrastructure
